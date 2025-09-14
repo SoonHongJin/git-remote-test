@@ -1,0 +1,10 @@
+D:\GitSTest\GitSTest\bin\x64\Debug\GitSTest.exe.config
+D:\GitSTest\GitSTest\bin\x64\Debug\GitSTest.exe
+D:\GitSTest\GitSTest\bin\x64\Debug\GitSTest.pdb
+D:\GitSTest\GitSTest\obj\x64\Debug\GitSTest.csproj.AssemblyReference.cache
+D:\GitSTest\GitSTest\obj\x64\Debug\GitSTest.Form1.resources
+D:\GitSTest\GitSTest\obj\x64\Debug\GitSTest.Properties.Resources.resources
+D:\GitSTest\GitSTest\obj\x64\Debug\GitSTest.csproj.GenerateResource.cache
+D:\GitSTest\GitSTest\obj\x64\Debug\GitSTest.csproj.CoreCompileInputs.cache
+D:\GitSTest\GitSTest\obj\x64\Debug\GitSTest.exe
+D:\GitSTest\GitSTest\obj\x64\Debug\GitSTest.pdb

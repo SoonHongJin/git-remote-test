@@ -8,3 +8,4 @@ D:\GitSTest\GitSTest\obj\x64\Debug\GitSTest.csproj.GenerateResource.cache
 D:\GitSTest\GitSTest\obj\x64\Debug\GitSTest.csproj.CoreCompileInputs.cache
 D:\GitSTest\GitSTest\obj\x64\Debug\GitSTest.exe
 D:\GitSTest\GitSTest\obj\x64\Debug\GitSTest.pdb
+D:\GitSTest\GitSTest\obj\x64\Debug\GitSTest.exe.config

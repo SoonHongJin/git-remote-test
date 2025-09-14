@@ -18,5 +18,10 @@ namespace GitSTest
         {
             InitializeComponent();
         }
+
+        private void NewWork()
+        {
+
+        }
     }
 }

@@ -20,3 +20,14 @@ D:\새 폴더 (2)\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.csproj.Generat
 D:\새 폴더 (2)\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.csproj.CoreCompileInputs.cache
 D:\새 폴더 (2)\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.exe
 D:\새 폴더 (2)\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.pdb
+D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\bin\x64\Debug\GitSTest.exe.config
+D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\bin\x64\Debug\GitSTest.exe
+D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\bin\x64\Debug\GitSTest.pdb
+D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.csproj.AssemblyReference.cache
+D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.exe.config
+D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.Form1.resources
+D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.Properties.Resources.resources
+D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.csproj.GenerateResource.cache
+D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.csproj.CoreCompileInputs.cache
+D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.exe
+D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.pdb

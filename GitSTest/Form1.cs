@@ -21,6 +21,11 @@ namespace GitSTest
 
         private void NewWork()
         {
+            int a12 = 0;
+        }
+
+        private void NewWork22()
+        {
 
         }
     }

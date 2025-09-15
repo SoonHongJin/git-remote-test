@@ -1,26 +1,14 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "D:\\03. \uD14C\uC2A4\uD2B8 \uD504\uB85C\uADF8\uB7A8\\GitRemote2\\",
+  "WorkspaceRootPath": "D:\\soon\\git-remote-test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A52647FD-77AC-42C7-BAF0-E6EE3E0BB611}|GitSTest\\GitSTest.csproj|d:\\03. \uD14C\uC2A4\uD2B8 \uD504\uB85C\uADF8\uB7A8\\gitremote2\\gitstest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A52647FD-77AC-42C7-BAF0-E6EE3E0BB611}|GitSTest\\GitSTest.csproj|d:\\soon\\git-remote-test\\gitstest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A52647FD-77AC-42C7-BAF0-E6EE3E0BB611}|GitSTest\\GitSTest.csproj|solutionrelative:gitstest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A52647FD-77AC-42C7-BAF0-E6EE3E0BB611}|GitSTest\\GitSTest.csproj|D:\\03. \uD14C\uC2A4\uD2B8 \uD504\uB85C\uADF8\uB7A8\\GitRemote2\\gitstest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A52647FD-77AC-42C7-BAF0-E6EE3E0BB611}|GitSTest\\GitSTest.csproj|D:\\soon\\git-remote-test\\gitstest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A52647FD-77AC-42C7-BAF0-E6EE3E0BB611}|GitSTest\\GitSTest.csproj|solutionrelative:gitstest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-=======
-  "WorkspaceRootPath": "D:\\03. \uD14C\uC2A4\uD2B8 \uD504\uB85C\uADF8\uB7A8\\GitRemote\\git-remote-test\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A52647FD-77AC-42C7-BAF0-E6EE3E0BB611}|GitSTest\\GitSTest.csproj|D:\\03. \uD14C\uC2A4\uD2B8 \uD504\uB85C\uADF8\uB7A8\\GitRemote\\git-remote-test\\gitstest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A52647FD-77AC-42C7-BAF0-E6EE3E0BB611}|GitSTest\\GitSTest.csproj|solutionrelative:gitstest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A52647FD-77AC-42C7-BAF0-E6EE3E0BB611}|GitSTest\\GitSTest.csproj|d:\\03. \uD14C\uC2A4\uD2B8 \uD504\uB85C\uADF8\uB7A8\\gitremote\\git-remote-test\\gitstest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A52647FD-77AC-42C7-BAF0-E6EE3E0BB611}|GitSTest\\GitSTest.csproj|solutionrelative:gitstest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 494a291e2290cdca26d3435025d57348e311bb4b
     }
   ],
   "DocumentGroupContainers": [
@@ -30,47 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "D:\\03. \uD14C\uC2A4\uD2B8 \uD504\uB85C\uADF8\uB7A8\\GitRemote2\\GitSTest\\Form1.cs",
+              "DocumentMoniker": "D:\\soon\\git-remote-test\\GitSTest\\Form1.cs",
               "RelativeDocumentMoniker": "GitSTest\\Form1.cs",
-              "ToolTip": "D:\\03. \uD14C\uC2A4\uD2B8 \uD504\uB85C\uADF8\uB7A8\\GitRemote2\\GitSTest\\Form1.cs*",
+              "ToolTip": "D:\\soon\\git-remote-test\\GitSTest\\Form1.cs*",
               "RelativeToolTip": "GitSTest\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
-=======
-              "DocumentMoniker": "D:\\03. \uD14C\uC2A4\uD2B8 \uD504\uB85C\uADF8\uB7A8\\GitRemote\\git-remote-test\\GitSTest\\Form1.cs",
-              "RelativeDocumentMoniker": "GitSTest\\Form1.cs",
-              "ToolTip": "D:\\03. \uD14C\uC2A4\uD2B8 \uD504\uB85C\uADF8\uB7A8\\GitRemote\\git-remote-test\\GitSTest\\Form1.cs*",
-              "RelativeToolTip": "GitSTest\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAAeAAAAAAAAAA==",
->>>>>>> 494a291e2290cdca26d3435025d57348e311bb4b
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T16:21:55.33Z",
+              "WhenOpened": "2025-09-15T16:58:48.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
-<<<<<<< HEAD
-              "DocumentMoniker": "D:\\03. \uD14C\uC2A4\uD2B8 \uD504\uB85C\uADF8\uB7A8\\GitRemote2\\GitSTest\\Form1.cs",
+              "DocumentMoniker": "D:\\soon\\git-remote-test\\GitSTest\\Form1.cs",
               "RelativeDocumentMoniker": "GitSTest\\Form1.cs",
               "ToolTip": "D:\\\uC0C8 \uD3F4\uB354 (2)\\git-remote-test\\GitSTest\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "..\\..\\\uC0C8 \uD3F4\uB354 (2)\\git-remote-test\\GitSTest\\Form1.cs [\uB514\uC790\uC778]",
-=======
-              "DocumentMoniker": "D:\\03. \uD14C\uC2A4\uD2B8 \uD504\uB85C\uADF8\uB7A8\\GitRemote\\git-remote-test\\GitSTest\\Form1.cs",
-              "RelativeDocumentMoniker": "GitSTest\\Form1.cs",
-              "ToolTip": "D:\\03. \uD14C\uC2A4\uD2B8 \uD504\uB85C\uADF8\uB7A8\\GitRemote\\git-remote-test\\GitSTest\\Form1.cs [\uB514\uC790\uC778]*",
-              "RelativeToolTip": "GitSTest\\Form1.cs [\uB514\uC790\uC778]*",
->>>>>>> 494a291e2290cdca26d3435025d57348e311bb4b
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T15:54:55.196Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-09-15T16:58:48.955Z"
             }
           ]
         }

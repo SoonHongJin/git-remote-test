@@ -45,3 +45,14 @@ D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\obj\x64\Debug\G
 D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.exe
 D:\03. 테스트 프로그램\GitRemote\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.pdb
 >>>>>>> 494a291e2290cdca26d3435025d57348e311bb4b
+D:\main\git-remote-test\GitSTest\bin\x64\Debug\GitSTest.exe.config
+D:\main\git-remote-test\GitSTest\bin\x64\Debug\GitSTest.exe
+D:\main\git-remote-test\GitSTest\bin\x64\Debug\GitSTest.pdb
+D:\main\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.csproj.AssemblyReference.cache
+D:\main\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.exe.config
+D:\main\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.Form1.resources
+D:\main\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.Properties.Resources.resources
+D:\main\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.csproj.GenerateResource.cache
+D:\main\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.csproj.CoreCompileInputs.cache
+D:\main\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.exe
+D:\main\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.pdb

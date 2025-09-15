@@ -28,5 +28,10 @@ namespace GitSTest
         {
 
         }
+
+        private void NewPcWork()
+        {
+
+        }
     }
 }

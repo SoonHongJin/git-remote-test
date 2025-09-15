@@ -22,6 +22,8 @@ namespace GitSTest
         private void NewWork()
         {
             int a1 = 0;
+
+            int b = a + a1;
         }
 
         private void NewWork22()

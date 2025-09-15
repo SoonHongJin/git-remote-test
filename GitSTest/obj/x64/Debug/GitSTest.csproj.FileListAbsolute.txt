@@ -56,3 +56,15 @@ D:\main\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.csproj.GenerateResource.
 D:\main\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.csproj.CoreCompileInputs.cache
 D:\main\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.exe
 D:\main\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.pdb
+D:\soon\git-remote-test\GitSTest\bin\x64\Debug\GitSTest.exe.config
+D:\soon\git-remote-test\GitSTest\bin\x64\Debug\GitSTest.exe
+D:\soon\git-remote-test\GitSTest\bin\x64\Debug\GitSTest.pdb
+D:\soon\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.csproj.AssemblyReference.cache
+D:\soon\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.exe.config
+D:\soon\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.Form1.resources
+D:\soon\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.Properties.Resources.resources
+D:\soon\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.csproj.GenerateResource.cache
+D:\soon\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.csproj.CoreCompileInputs.cache
+D:\soon\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.exe
+D:\soon\git-remote-test\GitSTest\obj\x64\Debug\GitSTest.pdb
+>>>>>>> 6fbafe36f28a258b8715840b91da3426838fd882

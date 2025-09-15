@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "GitSTest\\Form1.cs",
               "ToolTip": "D:\\main\\git-remote-test\\GitSTest\\Form1.cs*",
               "RelativeToolTip": "GitSTest\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T16:46:11.702Z",
               "EditorCaption": ""
@@ -39,10 +39,11 @@
               "Title": "Form1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "D:\\main\\git-remote-test\\GitSTest\\Form1.cs",
               "RelativeDocumentMoniker": "GitSTest\\Form1.cs",
-              "ToolTip": "D:\\\uC0C8 \uD3F4\uB354 (2)\\git-remote-test\\GitSTest\\Form1.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "..\\..\\\uC0C8 \uD3F4\uB354 (2)\\git-remote-test\\GitSTest\\Form1.cs [\uB514\uC790\uC778]",
+              "ToolTip": "D:\\main\\git-remote-test\\GitSTest\\Form1.cs [\uB514\uC790\uC778]*",
+              "RelativeToolTip": "GitSTest\\Form1.cs [\uB514\uC790\uC778]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T16:46:12.083Z"
+              "WhenOpened": "2025-09-15T16:46:12.083Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]
         }
